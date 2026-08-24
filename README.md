@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aayushi Kumari
 
-### A Passionate Full Stack Web Developer from India
+### Full Stack Web Developer 
 
 - 🔭 I'm currently looking out for **Software Development Engineer** opportunities.
 - 🌱 I'm currently learning **TypeScript**.
