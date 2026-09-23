@@ -7,6 +7,7 @@
 - 👯 I'm looking to collaborate on **full stack web projects**.
 - 💬 Ask me about **React, Node.js, Express, MongoDB, DSA**.
 - 📫 How to reach me **aayushi.k0307@gmail.com**
+- 🌐 **Portfolio:** [Visit my Portfolio](https://aayushikumari-portfolio.vercel.app/)
 - 📄 Know about my experience: [Resume](https://drive.google.com/file/d/1HY7sX_ODzX_GZb55CELf9s8swYa-OfGc/view?usp=sharing) <!-- swap with your Drive resume link -->
 
 ### Connect with me:
